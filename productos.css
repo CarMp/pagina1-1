@@ -20,3 +20,15 @@ a {
 .actual {
     background-color: #ff835d;
 }
+
+form {
+    background-color: #ff835d;
+    width: 450px;
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.in {
+    margin: 10px 0;
+    display: block;
+}
